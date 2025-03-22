@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alicode07" alt="alicode07" /></a> </p>
 
-- 🔭 I’m currently working on [MangoKart](mangokart.netlify.app) project.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
