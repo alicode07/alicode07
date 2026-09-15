@@ -114,17 +114,22 @@
 * Used **Entity Framework Core, SQL Server and REST APIs**.
 * Implemented validation and structured API responses.
 
+#### TalentTrack – HR Management System
+
+*  Developed an HR management system for managing employee records and basic employee
+information.
+* Implemented CRUD operations for adding, updating, viewing, and deleting employees.
+* Used Entity Framework Core to interact with the MySQL database.
+* Built MVC-based controllers, models, and views for employee management.
+
+
 #### Retail Price Optimization System
 
 * Machine-learning based price optimization application using **Python, Pandas and NumPy**.
 * Implemented a Decision Tree Regressor for price prediction.
 * Used **Streamlit** to build the application interface.
 
-### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=alicode07&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
 ### 📫 Connect With Me
 
